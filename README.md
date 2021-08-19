@@ -4,7 +4,7 @@ Aug Genesis project
 ## Introduction
 ---
 ## Library Managment System
-This project ia console application using the C programming language. This project is compiled in visual stdio code using GCC compiler. In this cosole application you can do basic library managment task like adding the book, view book list availability , delete book, ...etc.
+This project ia console application using the C programming language. This project is compiled in visual stdio code using GCC compiler. In this cosole application you can do basic library managment task like adding the book, view book list availability , delete book,update book ...etc.
 
 ## Research
 ---
@@ -16,10 +16,11 @@ This project ia console application using the C programming language. This proje
 ---
 The main features of this application includes
 
-1. Adding books
+1. Add book
 2. View book list
-3. Deleting books
-4. Searching books
+3. Delete book
+4. Search book
+5. Update Book
 
 ## SWOT ANALYSIS
 ---
@@ -32,7 +33,7 @@ The main features of this application includes
 This Project can be used by University. This system will make their work simple.
 
 ### ***What***
-Adding, Deleting, viewing and searching of book can be done by this project without manual effort of the librarian.
+Adding, Deleting, viewing,updating and searching of book can be done by this project without manual effort of the librarian.
 
 ### ***When***
 When there is need to added to issue book by the student
@@ -42,6 +43,7 @@ This system is used in University.
 
 ### ***How***
 System design is a solution for how to approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. Here UML diagrams are used to supplement the working of the new system. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+
 ## Detail Requirements
 ---
 
